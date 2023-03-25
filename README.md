@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - ✨ Yandex.Practicum student
 - 🔭 learning Python
-- :heart: love coding
+- :heart: like coding
