@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ✨ Yandex.Practicum student
-- 🔭 learning Python
-- :heart: like programming
+- ✨ Junior Python Developer
+- :heart: Like programming
